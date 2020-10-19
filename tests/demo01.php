@@ -1,5 +1,6 @@
 <?php
-require_once __DIR__.'/../src/Aes.class.php';
+namespace zhuyanxun;
+require_once __DIR__.'/../src/Aes.php';
 
 $aes_key = "J0^P^)0-ZriSt93g";  //16位
 $aes_iv  = "B8jNhk5J49(@mM++";  //16位
