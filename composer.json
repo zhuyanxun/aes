@@ -1,0 +1,15 @@
+{
+    "name": "zhuyanxun/aes",
+    "authors": [
+        {
+            "name": "zhuyanxun",
+            "email": "1192001589@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "zhuyanxun\\": "src/"
+        }
+    }
+}

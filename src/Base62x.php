@@ -1,4 +1,5 @@
 <?php
+namespace zhuyanxun;
 class Base62x {
 
 	# variables

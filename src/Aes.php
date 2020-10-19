@@ -1,5 +1,6 @@
 <?php
-require_once __DIR__.'/Base62x.class.php';
+namespace zhuyanxun;
+require_once __DIR__.'/Base62x.php';
 class Aes {
 
     private $aes_key; //加密key
