@@ -2,7 +2,7 @@
 php版Aes加密字符串
 ====
 
-我也不想重复造轮子，只是没找到合适的轮子逼不得已  
+php版的aes加密类，加密后没有特殊符号，只有数字和字母
 
 ### 如何安装  
 composer require zhuyanxun/aes  
