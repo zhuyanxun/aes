@@ -1,5 +1,8 @@
 {
     "name": "zhuyanxun/aes",
+    "description": "aes加密类，加密后的字符串没有_-+等特殊符号，只有数字和字母",
+    "keywords": ["aes","base62x"],
+    "type": "library",
     "authors": [
         {
             "name": "zhuyanxun",
